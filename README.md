@@ -15,3 +15,6 @@ Crear una variable de ambiente:
 
 Ejecutar Flask:
   C:\Python27\python.exe -m flask run
+
+Para matar Flask:
+  Ctrl + C

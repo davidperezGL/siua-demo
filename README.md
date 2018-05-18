@@ -2,8 +2,16 @@
 
 Instrucciones:
 
-Descargar Python: https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
+Descargar Python 2.7: 
+  https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
 
-Instalar flask: pip install flask.
+Instalar flask: 
+  C:\Python27\Scripts\pip.exe install flask
 
 Clonar este repositorio (git clone).
+
+Crear una variable de ambiente: 
+  set FLASK_APP=start.py
+
+Ejecutar Flask:
+  C:\Python27\python.exe -m flask run
